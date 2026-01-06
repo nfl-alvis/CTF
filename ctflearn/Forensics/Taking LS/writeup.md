@@ -46,7 +46,7 @@ Selanjutnya, membuka file `The Flag.pdf` dan diketahui bahwa file tersebut dilin
 
 ## Penyelesaian
 
-Password yang ditemukan pada file ThePassword.txt, yaitu:
+Password yang ditemukan pada file `ThePassword.txt`, yaitu:
 
 ```
 Im The Flag
