@@ -60,7 +60,7 @@ Hasil ekstraksi menghasilkan beberapa file PNG:
 ```
 
 membuka file `00000299.png` memberi kita flag
-[Flag](output/png/00000299.png)
+![Flag](output/png/00000299.png)
 
 ---
 
