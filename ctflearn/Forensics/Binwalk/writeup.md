@@ -43,7 +43,6 @@ Meskipun nama file berformat `.jpeg`, `exiftool` mengidentifikasi file tersebut 
 
 ```
 Warning : [minor] Trailer data after PNG IEND chunk
-
 ```
 
 Peringatan ini menunjukkan bahwa terdapat **data tambahan setelah chunk IEND**, yang secara struktur seharusnya menandai akhir file PNG. Kondisi ini sering menjadi indikasi adanya **file lain yang disisipkan (_file embedding_)**.
@@ -59,7 +58,8 @@ Hasil ekstraksi menghasilkan beberapa file PNG:
 00000000.png  00000299.png
 ```
 
-membuka file `00000299.png` memberi kita flag
+Membuka file `00000299.png` memberi kita flag:
+
 ![Flag](output/png/00000299.png)
 
 ---
