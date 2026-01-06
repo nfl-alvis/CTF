@@ -40,7 +40,7 @@ Nice Job!  The Password is "Im The Flag".
 ```
 
 Selanjutnya, membuka file `The Flag.pdf` dan diketahui bahwa file tersebut dilindungi oleh sebuah password.
-[Berpassword.png](Berpasspowrd.png)
+![Berpassword.png](Berpasspowrd.png)
 
 ---
 
@@ -54,7 +54,7 @@ Im The Flag
 
 digunakan untuk membuka file `The Flag.pdf`.
 Setelah file berhasil dibuka, flag dapat ditemukan di dalam dokumen tersebut.
-[Unlocked.png](Unlocked.png)
+![Unlocked.png](Unlocked.png)
 
 ---
 
