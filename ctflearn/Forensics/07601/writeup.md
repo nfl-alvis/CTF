@@ -12,7 +12,7 @@ I think I lost my flag in there. Hopefully, it won't get attacked...
 ## Analisis 
 
 Diberikan file gambar `AGT.png`:
-![AGT.png](AGT.png)
+![AGT.png](chall/AGT.png)
 
 File `AGT.png` tampak sebagai file gambar biasa. Namun, untuk memastikan format sebenarnya, dilakukan identifikasi tipe berkas menggunakan perintah file.
 
