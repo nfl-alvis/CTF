@@ -34,11 +34,10 @@ curl -A "Sup3rS3cr3tAg3nt" http://165.227.106.113/header.php
 Output:
 
 ```html
-Sorry, it seems as if your user agent is not correct, in order to access this website. The one you supplied is: 127.0.0.1
-<!-- Sup3rS3cr3tAg3nt  -->
+Sorry, it seems as if you did not just come from the site, "awesomesauce.com".
 ```
 
-Dari respons tersebut dapat disimpulkan bahwa **_User-Agent_** saja belum cukup. Website juga memvalidasi `referer` pada header.
+Dari respons tersebut dapat disimpulkan bahwa **_User-Agent_** saja belum cukup. Website juga memvalidasi header tambahan, yaitu header _**Referer**_ .
 
 2. **Menambahkan __Referer__**
 
