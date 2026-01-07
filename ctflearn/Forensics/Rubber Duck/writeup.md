@@ -11,7 +11,11 @@ Find the flag! Simple forensics challenge to get started with.
 
 ## Analisis
 
-Diberikan file gambar `RubberDuck.jpg`, Mengecek metadata pada file tersebut dengan utilitas `exiftool`:
+Diberikan file gambar `RubberDuck.jpg`:
+
+![RubberDuck.jpg](RubberDuck.jpg)
+
+Mengecek metadata pada file tersebut dengan utilitas `exiftool`:
 
 ```bash
 exiftool RubberDuck.jpg
