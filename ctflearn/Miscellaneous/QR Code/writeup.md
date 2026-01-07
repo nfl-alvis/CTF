@@ -11,9 +11,11 @@ Do you remember something known as QR Code? Simple. Here for you : [link](https:
 ## Analisis
 
 Diberikan berupa gambar **_QR Code_** . Langkah awal yang dilakukan adalah melakukan proses decoding **_QR Code_** untuk mengekstrak data mentah yang tersimpan di dalamnya.  
+  
 ![QR Code](qrcode.39907201.png)
   
 Proses decoding **_QR Code_** dilakukan menggunakan [QRazyBox](https://merri.cx/qrazybox/), yang menghasilkan sebuah string terenkripsi dalam format Base64:  
+  
 ![Decoded.png](Decoded.png)
   
 ```
@@ -45,7 +47,6 @@ Output tersebut masih belum bermakna secara langsung dan terlihat seperti hasil 
 Pola karakter pada hasil sebelumnya mengindikasikan penggunaan **ROT13 cipher**, yaitu metode substitusi sederhana yang menggeser huruf sebanyak 13 posisi.
 Dekode **ROT13** dilakukan menggunakan [dCode.fr](https://www.dcode.fr/rot-13-cipher), menghasilkan plaintext berikut:  
 ![DecodeRot13.png](DecodeRot13.png)
-  
 ```flag is : n0_body_f0rget_qr_code```
 
 ---
