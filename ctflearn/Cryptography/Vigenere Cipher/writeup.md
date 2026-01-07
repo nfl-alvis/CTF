@@ -16,7 +16,7 @@ Dengan asumsi enkripsi dilakukan pada alfabet standar (A–Z), proses dekripsi d
 
 ---
 
-## Proses Decryption
+## Proses Dekripsi
 
 _Mendecrypt_ di [CyberChef](https://gchq.github.io/CyberChef/), mendapatkan hasil:
 
