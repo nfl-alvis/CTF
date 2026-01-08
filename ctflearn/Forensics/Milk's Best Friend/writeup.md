@@ -12,7 +12,7 @@ Have Fun :)
 
 ## Analisis
 
-Diberikan sebuah gambar `oreo.jpg`:
+Diberikan sebuah gambar `oreo.jpg`:  
   
 ![oreo.jpg](oreo.jpg)
   
