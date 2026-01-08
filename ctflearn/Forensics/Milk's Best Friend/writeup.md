@@ -37,7 +37,7 @@ Hasil ini mengindikasikan bahwa `oreo.jpg` bukan hanya berisi data gambar, tetap
 
 ## Pencarian Flag
 
-Selanjutnya dilakukan pencarian _string_ yang mengandung kata _flag_ pada seluruh file hasil ekstraksi menggunakan perintah `strings` dan `grep`.
+Selanjutnya dilakukan pencarian _string_ yang mengandung kata _flag_ pada seluruh file hasil ekstraksi menggunakan _command_ `strings` dan `grep`.
 
 ```bash
 strings * | grep flag
