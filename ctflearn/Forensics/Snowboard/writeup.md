@@ -18,7 +18,7 @@ Diberikan sebuah gambar `Snowboard.jpg`.
 Langkah awal yang dilakukan adalah melakukan pencarian _plaintext_ yang mungkin tersembunyi di dalam file menggunakan utilitas `strings`.
 
 ```bash
-strings Snowboard.jpg| grep CTF
+strings Snowboard.jpg | grep CTF
 ```
 
 Output:
