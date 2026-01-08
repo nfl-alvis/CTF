@@ -102,4 +102,4 @@ Dari _diff_ tersebut terlihat jelas bahwa flag asli digantikan dengan teks `REDA
 
 ## Flag
 
-```flag{REDACTED}```
+```flag{protect_your_git}```
