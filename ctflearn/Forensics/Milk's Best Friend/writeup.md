@@ -14,7 +14,7 @@ Have Fun :)
 
 Diberikan sebuah gambar `oreo.jpg`:  
   
-![oreo.jpg](oreo.jpg)
+![Oreo.jpg](oreo.jpg)
   
 Langkah awal yang dilakukan adalah memeriksa kemungkinan adanya file tersembunyi di dalam gambar menggunakan `binwalk`.
 
