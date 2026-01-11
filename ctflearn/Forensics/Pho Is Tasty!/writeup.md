@@ -13,7 +13,8 @@ The flag is hidden in the jpeg file. Good Luck! Have some Pho! Solve this challe
 
 Gambar `Pho.jpg` dibuka secara normal dan tidak menunjukkan anomali visual.  
   
-![Pho.jpg](Pho.jpg)
+![Pho.jpg](Pho.jpg)  
+  
 Langkah selanjutnya adalah melakukan **analisis level byte** untuk mencari kemungkinan string tersembunyi di dalam struktur file.
 
 ---
