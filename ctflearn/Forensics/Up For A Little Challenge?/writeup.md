@@ -13,7 +13,7 @@ You Know What To Do ...
 
 File `Begin Hack.jpg` dibuka secara normal dan tidak menunjukkan indikasi visual yang mencurigakan.  
   
-![Begin Hack.jpg](chall/'Begin Hack.jpg')  
+![Begin Hack.jpg](chall/Begin%20Hack.jpg)  
   
 Langkah pertama adalah melakukan **string analysis** untuk mencari informasi tersembunyi di dalam struktur file.
 
