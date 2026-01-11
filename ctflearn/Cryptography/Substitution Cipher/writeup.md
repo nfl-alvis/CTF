@@ -20,7 +20,7 @@ Diberikan file `Subsititution.txt` yang merupakan teks hasil encrypt dengan **Su
 
 Mendekripsi pesan pada laman [planetcalc.com](https://planetcalc.com/8047/):  
   
-![decrypted.png](decryptyed.png)  
+![decrypted.png](decrypted.png)  
   
 Dengan memanfaatkan analisis frekuensi otomatis, plaintext berhasil direkonstruksi sepenuhnya.
 
