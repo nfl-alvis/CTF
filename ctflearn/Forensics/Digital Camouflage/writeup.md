@@ -25,7 +25,7 @@ Selain itu, fitur **Follow → HTTP Stream** digunakan untuk melihat percakapan 
 
 Pada **HTTP Stream ke-3**, ditemukan sebuah request `POST` yang mengarah ke halaman login:  
   
-[login.png](login.png)  
+![login.png](login.png)  
   
 ```http
 POST /pages/main.html HTTP/1.1
