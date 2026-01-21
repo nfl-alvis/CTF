@@ -11,11 +11,7 @@ I hope you will help me solve this problem.
 ## Analisis
 
 Diberikan sebuah file audio bernama `you_know_what_to_do.wav`. Ketika diputar, audio tersebut tidak berisi suara percakapan manusia, melainkan bunyi nada pendek yang menyerupai suara tombol telepon klasik.  
-  
-<audio controls>
-  <source src="https://raw.githubusercontent.com/nfl-alvis/CTF/main/ctflearn/Cryptography/Tone%20dialing/you_know_what_to_do.wav" type="audio/wav">
-</audio>  
-  
+
 Karakteristik suara tersebut identik dengan **DTMF (Dual-Tone Multi-Frequency)**, yaitu sistem nada yang digunakan pada keypad telepon untuk merepresentasikan angka (0–9) dan simbol tertentu.
 
 Berdasarkan deskripsi challenge dan jenis audio yang diberikan, dapat diasumsikan bahwa informasi penting (flag) tersembunyi dalam bentuk **DTMF tone sequence**.
