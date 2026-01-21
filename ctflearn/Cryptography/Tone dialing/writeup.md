@@ -13,8 +13,7 @@ I hope you will help me solve this problem.
 Diberikan sebuah file audio bernama `you_know_what_to_do.wav`. Ketika diputar, audio tersebut tidak berisi suara percakapan manusia, melainkan bunyi nada pendek yang menyerupai suara tombol telepon klasik.  
   
 <audio controls>
-  <source src="you_know_what_to_do" type="audio/mpeg">
-  Browser kamu tidak mendukung audio.
+  <source src="you_know_what_to_do.wav" type="audio/mpeg">
 </audio>  
   
 Karakteristik suara tersebut identik dengan **DTMF (Dual-Tone Multi-Frequency)**, yaitu sistem nada yang digunakan pada keypad telepon untuk merepresentasikan angka (0–9) dan simbol tertentu.
