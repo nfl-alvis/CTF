@@ -44,7 +44,8 @@ Saat dibuka, gambar `1.png` menampilkan pola warna RGB yang tampak acak dan tida
 
 Berbeda dengan `1.png`, gambar `3.png` terlihat normal secara visual dan mengandung petunjuk. Gambar ini mengarahkan bahwa warna atau channel tertentu perlu digabungkan.  
   
-![3.png](3.pn)
+![3.png](3.png)  
+  
 Untuk analisis lebih lanjut, digunakan **zsteg**:
 
 ```bash
