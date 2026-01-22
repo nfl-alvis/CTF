@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Jan 22 10:30:40 2026
+Invocation: foremost 3.png 
+Output directory: /home/spawn2pwn/CTF/ctflearn/Forensics/Exclusive Santa/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 3.png
+Start: Thu Jan 22 10:30:40 2026
+Length: 1 MB (1221575 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      51 KB 	          0 	  (1200 x 875)
+1:	00000102.png 	       1 MB 	      52406 	  (1280 x 720)
+Finish: Thu Jan 22 10:30:40 2026
+
+2 FILES EXTRACTED
+	
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Thu Jan 22 10:30:40 2026
