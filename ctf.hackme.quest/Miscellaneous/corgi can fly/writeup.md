@@ -16,10 +16,10 @@ Diberikan sebuah gambar `corgi-can-fly.png` [corgi-can-fly.png]
 
 Mencoba membukanya dengan `stegsolve` mendpatkan kode qr pada `Red Plane 0`
 
-[solved.png](solved.png)
+![solved.png](solved.png)
 
 ---
 
 ## Flag
 
-`FLAG{Corgi is cutest aniaml on the earth >////////<}`
+```FLAG{Corgi is cutest aniaml on the earth >////////<}```
