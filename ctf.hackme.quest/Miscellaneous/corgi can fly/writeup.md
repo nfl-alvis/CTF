@@ -1,22 +1,35 @@
-# corgi can fly
+# Corgi Can Fly
 
-Corgi is cute, right?
+## Deskripsi Challenge
 
-[Pillow (Python)](https://pillow.readthedocs.io/) and [Bitmap (.NET)](<https://msdn.microsoft.com/zh-tw/library/system.drawing.bitmap(v=vs.110).aspx>) are your friends.
+Corgi itu lucu, kan?
 
-(Maybe you can try `stegsolve`)
+Challenge ini dapat diselesaikan menggunakan bantuan library:
+
+- [Pillow (Python)](https://pillow.readthedocs.io/)
+- [Bitmap (.NET)](<https://msdn.microsoft.com/zh-tw/library/system.drawing.bitmap(v=vs.110).aspx>)
+
+Selain itu, tools seperti `stegsolve` juga sangat membantu untuk analisis cepat.
 
 ---
 
 ## Analisis
 
-Diberikan sebuah gambar `corgi-can-fly.png`
+Diberikan sebuah file gambar bernama:
+
+- `corgi-can-fly.png`
 
 ![corgi-can-fly.png](corgi-can-fly.png)
 
-Mencoba membukanya dengan `stegsolve` mendpatkan kode qr pada `Red Plane 0`
+Langkah pertama adalah melakukan inspeksi menggunakan **StegSolve** untuk mencari kemungkinan hidden data pada channel warna.
+
+Saat membuka gambar menggunakan `stegsolve`, ditemukan sebuah QR Code tersembunyi pada menu:
+
+- **Red Plane 0**
 
 ![solved.png](solved.png)
+
+QR Code tersebut kemudian dipindai untuk memperoleh flag.
 
 ---
 
