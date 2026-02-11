@@ -2,14 +2,12 @@
 
 ## Deskripsi Challenge
 
-Corgi itu lucu, kan?
+Corgi is cute, right?  
+  
+[Pillow (Python)](https://pillow.readthedocs.io/) and [Bitmap (.NET)](<https://msdn.microsoft.com/zh-tw/library/system.drawing.bitmap(v=vs.110).aspx>) are your friends.  
+  
+(Maybe you can try `stegsolve`)
 
-Challenge ini dapat diselesaikan menggunakan bantuan library:
-
-- [Pillow (Python)](https://pillow.readthedocs.io/)
-- [Bitmap (.NET)](<https://msdn.microsoft.com/zh-tw/library/system.drawing.bitmap(v=vs.110).aspx>)
-
-Selain itu, tools seperti `stegsolve` juga sangat membantu untuk analisis cepat.
 
 ---
 
