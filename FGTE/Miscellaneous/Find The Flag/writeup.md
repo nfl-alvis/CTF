@@ -1,5 +1,7 @@
 # Find The Flag
 
+![challenge.png](challenge.png)
+
 ---
 
 ## Deskripsi Challenge
