@@ -1,4 +1,4 @@
-# Writeup — FGTE CTF: Another (Miscellaneous)
+# another
 
 ![challenge.png](challenge.png)
 
