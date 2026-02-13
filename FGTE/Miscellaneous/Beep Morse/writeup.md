@@ -50,9 +50,7 @@ Selain itu:
 Dengan menyusun hasil decoding, diperoleh:
 
 ```
-
 FGTE{REDACTED}
-
 ```
 
 ---
