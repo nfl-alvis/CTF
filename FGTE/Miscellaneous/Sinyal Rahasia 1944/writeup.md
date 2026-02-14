@@ -58,9 +58,7 @@ Hasil plaintext masih terpecah per 5 karakter, sehingga perlu digabungkan kembal
 
 Jika disusun menjadi URL yang valid:
 
-```
 [https://nazisignalenigmasecreturl.vercel.app/](https://nazisignalenigmasecreturl.vercel.app/)
-````
 
 ---
 
