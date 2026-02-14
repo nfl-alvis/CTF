@@ -1,5 +1,7 @@
 # Video QR
 
+![challenge.png](challenge.png)
+
 ## Deskripsi Challenge
 Challenge memberikan sebuah file video (`video.mp4`) yang berisi banyak QR code.  
 Setiap QR code tidak berisi flag langsung, tetapi potongan data yang harus dikumpulkan dan disusun kembali.
