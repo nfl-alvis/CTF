@@ -77,7 +77,7 @@ Kalimat `"Ikan Mati" adalah kunci` mengarah ke istilah **Deadfish**, yaitu salah
 
 ---
 
-### Menjalankan kode Deadfish
+### 5. Menjalankan kode Deadfish
 
 Selanjutnya saya menyalin payload deadfish tersebut dan menjalankannya menggunakan interpreter online (dCode Deadfish Interpreter/Decoder). Setelah dieksekusi, output menghasilkan flag.  
   
