@@ -5,8 +5,10 @@
 ---
 
 ## Deskripsi Challenge
-Challenge memberikan sebuah gambar yang terlihat rusak/acak (*scrambled*). Pola pada gambar menunjukkan bahwa file tersebut bukan corrupt, melainkan hasil dari proses **pemotongan gambar menjadi beberapa tile** lalu tile-tile tersebut disusun ulang dengan urutan tertentu (*permutation*).
-
+Challenge memberikan sebuah gambar yang terlihat rusak/acak (*scrambled*). Pola pada gambar menunjukkan bahwa file tersebut bukan corrupt, melainkan hasil dari proses **pemotongan gambar menjadi beberapa tile** lalu tile-tile tersebut disusun ulang dengan urutan tertentu (*permutation*).  
+  
+![scrambled.png](scrambled.png)  
+  
 Tujuan challenge adalah mengembalikan susunan tile ke posisi semula sehingga gambar kembali terbaca.
 
 ---
