@@ -6,8 +6,7 @@
 
 ## Deskripsi Challenge
 
-Diberikan sebuah ciphertext panjang yang terlihat seperti Base64.
-Di dalam soal juga diberikan hint penting:
+Diberikan sebuah ciphertext panjang yang terlihat seperti Base64, di dalam soal juga diberikan hint penting:
 
 * `70 -> 0`
 * `71 -> 1`
