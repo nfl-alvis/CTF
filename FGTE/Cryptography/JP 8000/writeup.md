@@ -1,5 +1,7 @@
 # JP 8000
 
+![challenge.png](challenge.png)
+
 ## Deskripsi Challenge
 
 Diberikan sebuah file bernama `JP_8000.txt`. Berdasarkan nama challenge dan hint pada deskripsi (kata **Japanese** dan angka **8000**), kemungkinan besar challenge ini melibatkan encoding berlapis, decoding Shift-JIS, serta ROT8000.
