@@ -110,7 +110,7 @@ Proses decoding menghasilkan sebuah string yang merupakan flag dengan format FLA
 
 Setelah disesuaikan dengan format flag yang digunakan pada kompetisi (FGTE), diperoleh flag final yang valid.
 
-![solved.png](solvef.png)
+![solved.png](solved.png)
 
 ---
 
