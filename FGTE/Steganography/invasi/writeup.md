@@ -1,5 +1,9 @@
 # invasi
 
+![challenge.png](challenge.png)
+
+---
+
 ## Deskripsi Challenge
 
 Pada challenge ini diberikan sebuah file audio bernama `invasi.wav`. Setelah dianalisis lebih lanjut, diketahui bahwa audio tersebut merupakan sinyal SSTV (Slow-Scan Television) yang perlu didekode untuk memperoleh gambar yang berisi flag.
