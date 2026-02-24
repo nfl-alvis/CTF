@@ -35,9 +35,7 @@ Langkah-langkah:
 
 ### 3. Identifikasi Pesan
 
-Setelah divisualisasikan dalam bentuk spectrogram, terlihat pola tertentu pada rentang frekuensi menengah hingga tinggi. Pola tersebut membentuk teks yang terbaca dengan jelas sebagai flag challenge.
-
-Pesan tersebut tidak dapat didengar secara langsung, namun dapat terlihat jelas pada tampilan spectrogram.
+Setelah divisualisasikan dalam bentuk spectrogram, terlihat pola tertentu pada rentang frekuensi menengah hingga tinggi. Pola tersebut membentuk teks yang terbaca dengan jelas sebagai flag challenge. Pesan tersebut tidak dapat didengar secara langsung, namun dapat terlihat jelas pada tampilan spectrogram.
 
 ![solved.png](solved.png)
 
